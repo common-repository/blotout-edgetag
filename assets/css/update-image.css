@@ -1,0 +1,15 @@
+.dashicons-admin-plugins.edgetag-image-cont:before {
+    content: "";
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.dashicons-admin-plugins.edgetag-image-cont {
+    padding: 0 !important;
+    margin-right: 10px;
+    position: relative;
+}
